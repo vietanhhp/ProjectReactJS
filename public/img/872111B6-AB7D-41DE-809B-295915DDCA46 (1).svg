@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31.948" height="20.182" viewBox="0 0 31.948 20.182">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fc883a;
+      }
+
+      .cls-2 {
+        fill: #3ea2e5;
+      }
+
+      .cls-3 {
+        fill: #dfeef4;
+      }
+
+      .cls-4 {
+        fill: #6d7a84;
+      }
+
+      .cls-5 {
+        fill: #1892d6;
+      }
+    </style>
+  </defs>
+  <g id="free-shipping" transform="translate(-6.306 -27.554)">
+    <path id="Path_43" data-name="Path 43" class="cls-1" d="M6.306,27.554H25.045V42.315H6.306Z" transform="translate(0 0)"/>
+    <path id="Path_44" data-name="Path 44" class="cls-2" d="M87.195,48V42.179l-3.6-.729-3.552-6.034H73.986V48Z" transform="translate(-48.941 -5.685)"/>
+    <path id="Path_45" data-name="Path 45" class="cls-1" d="M82.064,27.554h1.689v2.177H82.064Z" transform="translate(-54.783 0)"/>
+    <path id="Path_46" data-name="Path 46" class="cls-3" d="M113.38,65.979h2.3v1.866h-2.3Z" transform="translate(-77.428 -27.786)"/>
+    <path id="Path_47" data-name="Path 47" class="cls-3" d="M87.1,42.868h-5.04v3.971h7.377Z" transform="translate(-54.783 -11.074)"/>
+    <path id="Path_48" data-name="Path 48" class="cls-2" d="M6.306,80.867H38.253v3.376H6.306Z" transform="translate(0 -38.552)"/>
+    <circle id="Ellipse_18" data-name="Ellipse 18" class="cls-4" cx="3.741" cy="3.741" r="3.741" transform="translate(9.087 40.255)"/>
+    <circle id="Ellipse_19" data-name="Ellipse 19" class="cls-4" cx="3.741" cy="3.741" r="3.741" transform="translate(27.992 40.255)"/>
+    <circle id="Ellipse_20" data-name="Ellipse 20" class="cls-3" cx="1.392" cy="1.392" r="1.392" transform="translate(11.435 42.603)"/>
+    <circle id="Ellipse_21" data-name="Ellipse 21" class="cls-3" cx="1.392" cy="1.392" r="1.392" transform="translate(30.34 42.603)"/>
+    <path id="Path_49" data-name="Path 49" class="cls-5" d="M81.907,63.219H80.8a.485.485,0,0,1,0-.969h1.109a.485.485,0,1,1,0,.969Z" transform="translate(-53.517 -25.09)"/>
+    <g id="Group_37" data-name="Group 37" transform="translate(9.264 33.39)">
+      <path id="Path_50" data-name="Path 50" class="cls-3" d="M17.862,49.412v.436h1.47v.778h-1.47v1.1H16.99V48.634h2.486v.778Z" transform="translate(-16.99 -48.634)"/>
+      <path id="Path_51" data-name="Path 51" class="cls-3" d="M30.979,51.722l-.652-.93h-.27v.93h-.872V48.634h1.479a1.088,1.088,0,0,1,1.182,1.08,1.027,1.027,0,0,1-.611.962l.737,1.047ZM30.058,50h.535c.207,0,.355-.121.355-.288s-.148-.288-.355-.288h-.535Z" transform="translate(-25.809 -48.634)"/>
+      <path id="Path_52" data-name="Path 52" class="cls-3" d="M43,49.412v.346h1.47v.777H43v.409h1.614v.777H42.129V48.634h2.486v.778Z" transform="translate(-35.169 -48.634)"/>
+      <path id="Path_53" data-name="Path 53" class="cls-3" d="M55.2,49.412v.346h1.47v.777H55.2v.409H56.81v.777H54.325V48.634H56.81v.778Z" transform="translate(-43.988 -48.634)"/>
+    </g>
+  </g>
+</svg>

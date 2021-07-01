@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #454545;
+      }
+    </style>
+  </defs>
+  <g id="menu_1_" data-name="menu (1)" transform="translate(-0.32 -0.32)">
+    <g id="Group_244" data-name="Group 244" transform="translate(9.496 0.32)">
+      <g id="Group_243" data-name="Group 243" transform="translate(0)">
+        <rect id="Rectangle_34" data-name="Rectangle 34" class="cls-1" width="8" height="8" transform="translate(-0.176)"/>
+      </g>
+    </g>
+    <g id="Group_246" data-name="Group 246" transform="translate(0.32 9.496)">
+      <g id="Group_245" data-name="Group 245" transform="translate(0 0)">
+        <rect id="Rectangle_35" data-name="Rectangle 35" class="cls-1" width="8" height="8" transform="translate(0 -0.176)"/>
+      </g>
+    </g>
+    <g id="Group_248" data-name="Group 248" transform="translate(9.496 18.673)">
+      <g id="Group_247" data-name="Group 247" transform="translate(0 0)">
+        <rect id="Rectangle_36" data-name="Rectangle 36" class="cls-1" width="8" height="8" transform="translate(-0.176 -0.353)"/>
+      </g>
+    </g>
+    <g id="Group_250" data-name="Group 250" transform="translate(0.32 0.32)">
+      <g id="Group_249" data-name="Group 249">
+        <rect id="Rectangle_37" data-name="Rectangle 37" class="cls-1" width="8" height="8"/>
+      </g>
+    </g>
+    <g id="Group_252" data-name="Group 252" transform="translate(9.496 9.496)">
+      <g id="Group_251" data-name="Group 251" transform="translate(0 0)">
+        <rect id="Rectangle_38" data-name="Rectangle 38" class="cls-1" width="8" height="8" transform="translate(-0.176 -0.176)"/>
+      </g>
+    </g>
+    <g id="Group_254" data-name="Group 254" transform="translate(18.673 9.496)">
+      <g id="Group_253" data-name="Group 253" transform="translate(0 0)">
+        <rect id="Rectangle_39" data-name="Rectangle 39" class="cls-1" width="8" height="8" transform="translate(-0.353 -0.176)"/>
+      </g>
+    </g>
+    <g id="Group_256" data-name="Group 256" transform="translate(18.673 0.32)">
+      <g id="Group_255" data-name="Group 255" transform="translate(0)">
+        <rect id="Rectangle_40" data-name="Rectangle 40" class="cls-1" width="8" height="8" transform="translate(-0.353)"/>
+      </g>
+    </g>
+    <g id="Group_258" data-name="Group 258" transform="translate(18.673 18.673)">
+      <g id="Group_257" data-name="Group 257" transform="translate(0 0)">
+        <rect id="Rectangle_41" data-name="Rectangle 41" class="cls-1" width="8" height="8" transform="translate(-0.353 -0.353)"/>
+      </g>
+    </g>
+    <g id="Group_260" data-name="Group 260" transform="translate(0.32 18.673)">
+      <g id="Group_259" data-name="Group 259" transform="translate(0 0)">
+        <rect id="Rectangle_42" data-name="Rectangle 42" class="cls-1" width="8" height="8" transform="translate(0 -0.353)"/>
+      </g>
+    </g>
+  </g>
+</svg>
